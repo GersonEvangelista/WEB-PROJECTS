@@ -5,14 +5,14 @@
 ---
 
 ## 🧭 Índice
-1. [📂 Lista de Proyectos](#lista-de-proyectos)
+1. [📂 Lista de Proyectos](#-lista-de-proyectos)
 2. [🛠️ Habilidades Técnicas](#-habilidades-técnicas)
 3. [🎯 Objetivos Profesionales](#-objetivos-profesionales)
 4. [📫 Contacto](#-contacto)
 
 ---
 
-## 📂 **Lista de Proyectos**
+## 📂 Lista de Proyectos
 
 > ✨ Cada proyecto representa un desafío resuelto con diseño, código y propósito.
 
