@@ -131,8 +131,8 @@
 
 ¿Quieres colaborar o tienes una propuesta? ¡Estoy abierto(a) a nuevas oportunidades!
 
-- 💼 LinkedIn: [www.linkedin.com/in/gersonchaev](www.linkedin.com/in/gersonchaev)  
-- 📧 Email: [mailto:chancasevangelistagerson@gmail.com](mailto:chancasevangelistagerson@gmail.com)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/gersonchaev](https://www.linkedin.com/in/gersonchaev)  
+- 📧 Email: [chancasevangelistagerson@gmail.com](mailto:chancasevangelistagerson@gmail.com)  
 - 💻 GitHub: [https://github.com/GersonEvangelista](https://github.com/GersonEvangelista) 
 
 ---
