@@ -33,7 +33,7 @@
   - 🖥️ **Frontend:** [Frontend](https://github.com/GersonEvangelista/ProyectoPROMCOSERWeb_Frontend.git)
 
 - 🖼️ **Preview:**  
-  ![Captura del proyecto](login_promcoser.jpeg)
+  ![Captura del proyecto](IMG/login_promcoser.jpeg)
 
 ---
 
@@ -53,7 +53,7 @@
   [GitHub – Página Transporte Luis](https://github.com/GersonEvangelista/PaginaTransporteLuis.git)
 
 - 🖼️ **Preview:**  
-  ![Captura del proyecto](transporteLuis.jpg)
+  ![Captura del proyecto](IMG/imgShekina.png)
 
 ---
 
@@ -76,7 +76,7 @@
   [Enterpod Web](https://en-ter-pod.web.app/terapia)
 
 - 🖼️ **Preview:**  
-  ![Captura del proyecto](enterpod.jpg)
+  ![Captura del proyecto](IMG/imgEnterpod.png)
   
 ---
 
@@ -99,7 +99,7 @@
   [GERSON CHAEV](https://gerson-ce.web.app/book)
 
 - 🖼️ **Preview:**  
-  ![Captura del proyecto](libreriaChaev.jpg)
+  ![Captura del proyecto](IMG/imgBOOK_CHAEV.png)
 
 
 ---
@@ -120,7 +120,7 @@
   [GitHub – ESAN Web](https://github.com/GersonEvangelista/webESAN.git)
 
 - 🖼️ **Preview:**  
-  ![Captura del proyecto](esanWeb.jpg)
+  ![Captura del proyecto](IMG/imgESAN.png)
 
 ---
 
