@@ -72,6 +72,9 @@
 - 🔗 **Repositorio del Código:**  
   [GitHub – Enterpod Web](https://github.com/GersonEvangelista/PaginaEnterpod.git)
 
+- 🔗 **Demo:**  
+  [Enterpod Web](https://en-ter-pod.web.app/terapia)
+
 - 🖼️ **Preview:**  
   ![Captura del proyecto](enterpod.jpg)
   
@@ -91,6 +94,9 @@
 
 - 🔗 **Repositorio del Código:**  
   [GitHub – Libros, Rimas y Asesorías CHAEV Web](https://github.com/GersonEvangelista/webLibrosAsesoriaRimas_CHAEV.git)
+
+- 🔗 **Demo:**  
+  [GERSON CHAEV](https://gerson-ce.web.app/book)
 
 - 🖼️ **Preview:**  
   ![Captura del proyecto](libreriaChaev.jpg)
